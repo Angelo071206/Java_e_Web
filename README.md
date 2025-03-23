@@ -29,6 +29,4 @@ Il Client che andiamo a realizzare si compone di due metodi, uno per inviare la 
 
 Per controllare se i servizi realizzati funzionano correttamente dobbiamo avviare il server e successivamente usare il comando test sul client, se il codice scritto è corretto oltre al codice di risposta 200 dovrebbe essere restituito il titolo del libro.
 
-## Salvataggio persistente delle modifiche fatte al server
-
 
